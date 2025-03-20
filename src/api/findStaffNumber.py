@@ -1,5 +1,4 @@
 # findStaffNumber.py
-# Clayton McArthur
 import psycopg2
 
 class findStaffNumber:
