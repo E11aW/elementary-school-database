@@ -1,5 +1,4 @@
 # listStudentsInClass.py
-# Clayton McArthur
 import psycopg2
 
 class listStudentsInClass:
