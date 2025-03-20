@@ -1,5 +1,4 @@
 # listAllRooms.py
-# Maxx McArthur
 import psycopg2
 
 class listAllRooms:
