@@ -1,5 +1,4 @@
 # setup_db_Mac.py
-# Clayton McArthur
 
 def verify_csv_headers(data_dir, tables):
     """Verify that CSV headers match expected table columns"""
