@@ -1,5 +1,4 @@
 # listAllClasses.py
-# Ella Williams
 import psycopg2
 
 class listAllClasses:
