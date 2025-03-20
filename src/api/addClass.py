@@ -1,5 +1,4 @@
 # addClass.py
-# NOT GRADED
 import psycopg2
 
 class addClass:
