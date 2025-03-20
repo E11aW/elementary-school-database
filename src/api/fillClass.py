@@ -1,6 +1,4 @@
 # fillClass.py
-# Clayton McArthur
-# Maxx McArthur
 import psycopg2
 
 class fillClass:
