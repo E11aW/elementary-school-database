@@ -1,5 +1,4 @@
 # findStudentNumber.py
-# Ella Williams
 import psycopg2
 
 class findStudentNumber:
