@@ -1,5 +1,4 @@
 # setup_db.py
-# Sam Baranov
 
 import os
 import sys
