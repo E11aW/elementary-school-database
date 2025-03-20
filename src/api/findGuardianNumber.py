@@ -1,5 +1,4 @@
 # findGuardianNumber.py
-# NOT GRADED
 import psycopg2
 
 class findGuardianNumber:
