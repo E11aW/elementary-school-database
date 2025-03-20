@@ -1,0 +1,6 @@
+StartDate,EndDate,Reason,StaffID,SubstituteID
+2025-03-31,2025-04-01,Sickness,2,1
+2025-05-21,2025-05-21,Visiting family,5,
+2025-04-25,2025-04-25,Fixing car,11,2
+2025-04-17,2025-04-17,Vet visit,18,
+2025-04-02,2025-04-09,Vacation,6,

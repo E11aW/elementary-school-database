@@ -1,0 +1,56 @@
+ID,Street,City,StateID,Zip
+1,Random St SE,Bothell,WA,98011
+2,Street Street,Bellevue,WA,98004
+3,The Street,Bellevue,WA,98006
+4,Totally Real Street,Bellevue,WA,98006
+5,Actual Street,Bellevue,WA,98015
+6,Random St NE,Bothell,WA,98011
+7,Random St SW,Bothell,WA,98011
+8,Random St NW,Bothell,WA,98011
+9,Fun St,Bothell,WA,98021
+10,Fun Dr,Bothell,WA,98021
+11,Fun Way,Bothell,WA,98021
+12,Candy Dr,Bothell,WA,98021
+13,Candy St NE,Bothell,WA,98011
+14,Candy St SE,Bothell,WA,98011
+15,Candy St NW,Bothell,WA,98011
+16,Candy St SW,Bothell,WA,98011
+17,House Rd,Kirkland,WA,98105
+18,Scary Road,Kirkland,WA,98033
+19,Scary St,Kirkland,WA,98105
+20,Cool Road,Bothell,WA,98011
+21,Railroad,Bothell,WA,98011
+22,NorthEast St,Redmond,WA,98033
+23,NorthEast Dr,Redmond,WA,98073
+24,NorthEast Rd,Bothell,WA,98011
+25,NorthEast Way,Bothell,WA,98011
+26,SouthEast St,Bothell,WA,98011
+27,Candy Way,Bothell,WA,98021
+28,SouthEast Dr,Bothell,WA,98021
+29,SouthEast Rd,Bothell,WA,98021
+30,Under The C,Bothell,WA,98021
+31,In The Sky,Bothell,WA,98021
+32,Education Dr SW,Bothell,WA,98011
+33,Education St SW,Bothell,WA,98011
+34,Educational Way,Bothell,WA,98011
+35,Education Dr NE,Bellevue,WA,98004
+36,Education St NE,Bellevue,WA,98005
+37,Education Dr NW,Bothell,WA,98011
+38,Education St NW,Bothell,WA,98011
+39,Education Dr SE,Bothell,WA,98021
+40,Education St SE,Vancouver,WA,98607
+41,Learning Dr SW,Bellevue,WA,98004
+42,Learning St SW,Bellevue,WA,98005
+43,Learning Way,Bellevue,WA,98004
+44,Learning Dr NE,Bellevue,WA,98005
+45,Learning St NE,Redmond,WA,98033
+46,Learning Dr NW,Bothell,WA,98011
+47,Learning St NW,Kirkland,WA,98033
+48,Learning Dr SE,Kirkland,WA,98105
+49,Learning St SE,Bothell,WA,98011
+50,Real Road,Bothell,WA,98021
+51,Some Street,Bothell,WA,98011
+52,A location,Bothell,WA,98011
+53,This Street,Bothell,WA,98011
+54,That Street,Bellevue,WA,98004
+111,The Forgotten,Somewhere,CA,11111

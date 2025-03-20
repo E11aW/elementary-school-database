@@ -1,0 +1,6 @@
+ID,Name,AdminAccess
+PRI,Principal,TRUE
+IT,IT,TRUE
+HRT,Home Room Teacher,FALSE
+PET,PE Teacher,FALSE
+LUN,Lunch Staff,FALSE

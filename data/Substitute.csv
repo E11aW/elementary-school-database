@@ -1,0 +1,9 @@
+ID,Number,FirstName,LastName,PhoneNumber,WorkEmail,AddressID
+1,11110001,Subi,Stoot,206-324-8764,sstoot@ne.edu,48
+2,11110002,Milly,Morris,,mimorris@ne.edu,49
+3,11110003,Mox,Morris,,momorris@ne.edu,49
+4,11110004,Alfred,Kelly,,akelly@ne.edu,50
+5,11110005,Carol,Carter,425-444-3333,ccarter@ne.edu,51
+6,11110006,Rachel,Russel,,rrussel@ne.edu,52
+7,11110007,Emma,West,425-345-5464,ewest@ne.edu,53
+8,11110008,Steven,Perez,425-425-4250,sperez@ne.edu,54
