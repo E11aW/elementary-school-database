@@ -1,5 +1,4 @@
 # listStudentGuardianInfo.py
-# Maxx McArthur
 import psycopg2
 
 class listStudentGuardianInfo:
