@@ -1,5 +1,4 @@
 # API_Interaction.py (part of driver)
-# Clayton McArthur 
 
 # APIs
 from .listStudentsInClass import listStudentsInClass
