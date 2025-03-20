@@ -1,6 +1,4 @@
 # suggestSubstitutes.py
-# Sam Baranov
-
 import psycopg2
 from datetime import datetime
 
