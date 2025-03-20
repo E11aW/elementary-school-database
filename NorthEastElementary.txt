@@ -2,7 +2,7 @@
 CREATE DATABASE nee;
 \c nee
 
---This was our initially made database creation code, now moved to python scripts for flexibility
+--Initially made database creation code, now moved to python scripts for flexibility
 BEGIN;
 
 CREATE TABLE State (
