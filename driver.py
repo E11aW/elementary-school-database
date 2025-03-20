@@ -1,6 +1,4 @@
 # driver.py
-# Clayton McArthur
-# Sam Baranov
 import psycopg2
 from psycopg2 import Error
 import configparser
@@ -80,7 +78,6 @@ def main():
         "listStudentGuardianInfo",
         "requestTimeOff",
         "suggestSubstitutes",
-        # Additional APIs (NOT GRADED)
         "addClass",
         "listStudentClasses",
         "findGuardianNumber"
