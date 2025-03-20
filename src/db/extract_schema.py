@@ -1,5 +1,4 @@
 # extract_schema.py
-# Sam Baranov
 import os
 
 
